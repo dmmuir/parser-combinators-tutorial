@@ -1,0 +1,7 @@
+[package]
+name = "parser-combinators-tutorial"
+version = "0.1.0"
+authors = ["dmuir"]
+edition = "2018"
+
+[dependencies]
